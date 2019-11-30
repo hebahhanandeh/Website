@@ -1,0 +1,95 @@
+<html>
+<head>
+    <title> university website</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="1.css">
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+</head>
+
+
+    <div class="div_1">
+    <img src="https://www.htu.edu.jo/themes/htu/logo.png" > 
+    
+    </div>
+    <h3>Profile  | Admission | Campus Life | Academic | Centers | Administration | Accreditstion | Upskilling Program | EDRAKK  </h3>
+    <video  controls>
+          <source src="https://www.htu.edu.jo/themes/htu/media/banner.mp4" type="video/mp4">
+        </video>
+
+ <h2>      News      </h2>
+    <div class="div_2">
+      <div class="div_left">
+       
+        <figure>
+                <img src="http://www.htu.edu.jo/sites/default/files/styles/large/public/2019-11/IMG_5060.JPG?itok=qf8N4Aof"  />
+            <figcaption>مجلس أمناء مؤسسة ولي العهد يزور جامعة الحسين التقنية    </figcaption>
+        </figure>
+
+        
+        
+<figure>
+        <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2019-11/IMG_6050.JPG?itok=rUYP-WEw" />
+    <figcaption> محاضرة بعنوان " آفة المخدرات  و أضرارها على المجتمع " في جامعة الحسين التقنية </figcaption>
+</figure>
+
+
+      </div>
+      <div class="div_right"> 
+          <h2>Events</h2>
+         <p>  jan 15 | HTU’s Accelerated Innovation & Entrepreneurial Bootcamp II</p>
+         <p>Oct 06 | (CIEE) at Al-Hussein Technical University hosts HULT's Prize</p>
+        <p> Oct 06|HTU Strategic Roadmapping Workshop</p>
+        <p>Sep 26| President of Pearson Qualifications visits HTU</p>
+      </div>
+
+      
+
+      
+    </div>
+</div>
+<div class="div_3">
+        <figure>
+                <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-08/Jepg-3_0.jpg?itok=IAhMoNV6"  >
+                <figcaption>School of Engineering Technology</figcaption>
+              </figure>
+       <figure>
+       <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-02/Jepg-4.jpg?itok=fDuEHifS "/>
+       <figcaption>  School of Construction Technology and Built Environment</figcaption>
+     </figure>
+     <figure>
+       <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-08/Jepg-5.jpg?itok=-CFxaPZl"/>
+       <figcaption>School of Computing and Informatics</figcaption>
+    </figure>
+    <figure>
+        <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-08/School%20of%20construction%20and%20built%20Environment.jpg?itok=SHm4fgEY"/>
+        <figcaption>School of Social and Basics Sciences</figcaption>
+    </figure>
+</div>
+<div class="div_4">
+    <img src="https://www.htu.edu.jo/themes/htu/logo2.png"
+    <ol>
+        <ul> 
+            <li> LAWS AND REGULATIONS  </li>
+            <li>VACANCIES </li>
+            <li> TENDERS</li>
+            <li> STUDENTS HANDBOOK</li>
+            <li> ACADEMIC CALENDAR</li>
+            <li> Scholarships
+                    ARAB POTASH</li>
+        </ul>
+    </ol>
+
+<li>Contact us: </li>
+<li>Tel: +962 6 580 8787 </li>
+<li>Building 23 | KHBP | Amman-Jordan</li>
+
+</div>
+
+
+
+</div>
+
+</body>
+</html>
+
