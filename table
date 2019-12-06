@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> HTU by Table </title>
+    <style>
+        a {
+            margin-right: 40px;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        li {
+            margin-bottom: 23px;
+        }
+
+        .border-right {
+            border-right: 0.1vw solid red;
+            padding-right: 0.5vw;
+        }
+
+        h1{
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <table width=100%>
+        <tr>
+            <!--This is the LOGO-->
+            <td width=80%>
+                <img src="https://www.htu.edu.jo/themes/htu/logo.png">
+            </td>
+            <td></td>
+            <!--This is the search Bar-->
+            <td>
+                <input style="margin-right: 75px; margin-left: 75px;" type="text" placeholder="Search." name="search">
+            </td>
+        </tr>
+        <tr>
+            <!--This is the navigation Bar-->
+            <td colspan="6">
+                <a class="border-right" href="https://www.htu.edu.jo/">Profile</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Admision</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Campus Life</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Academics</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Centers</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Administration</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">accreditation</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Upskilling Program</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">EDRAAK</a>
+                <a class="border-right" href="https://www.htu.edu.jo/">Students</a>
+            </td>
+            
+        </tr>
+        <!--This is the video Row-->
+        <tr>
+            <td colspan="3">
+                <video src="https://www.htu.edu.jo/themes/htu/media/banner.mp4" width="100%"></video>
+            </td>
+            
+        </tr>
+        <tr>
+            <td style="display: inline-block;">
+                <h1>News</h1>
+                <img
+                    src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2019-11/IMG_6050.JPG?itok=rUYP-WEw">
+                <p>RE: محاضرة بعنوان " آفة المخدرات و أضرارها على المجتمع " في جامعة الحسين التقنية</p>
+            </td>
+            <td>
+                    <img style="margin-top: 5.5vw; margin-left: 2vw ;"
+                        src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2019-11/IMG_4877.JPG?itok=aBMIJVUR">
+                    <p>(CDAC)جامعة الحسين التقنية تطلق برنامج تدريب المدربين بالتعاون مع مركز الحوسبة المتقدمة الهندي</p>
+            </td>
+
+            <td colspan="1">
+                <h1 style="padding-left: 2rem;">Events</h1> 
+                <ul >
+                    <li>Jan 15 HTU’s Accelerated Innovation & Entrepreneurial Bootcamp II</li>
+                    <li>Oct 06 (CIEE) at Al-Hussein Technical University hosts HULT's Prize</li>
+                    <li>Oct 06 HTU Strategic Roadmapping Workshop</li>
+                    <li>Sep 26 President of Pearson Qualifications visits HTU</li>
+                </ul>
+            </td>
+        </tr>
+        <tr bgcolor="#424242">
+            <td colspan="6" align="center">
+                <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-08/Jepg-3_0.jpg?itok=IAhMoNV6"
+                    width="20%" alt="School of Engineering Technology " style="margin-right: 25px; margin-top: 25px; margin-bottom: 30px;" >
+
+                <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-08/School%20of%20construction%20and%20built%20Environment.jpg?itok=SHm4fgEY"
+                    width="20%" alt="School of Construction Technology and Built Environment" style="margin-right: 25px;margin-top: 25px; margin-bottom: 30px;">
+
+                <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-02/Jepg-4.jpg?itok=fDuEHifS"
+                    width="20%" height="61.8%" alt="School of Computing and Informatics" style="margin-right: 25px; margin-top: 25px; margin-bottom: 30px;">
+
+                <img src="https://www.htu.edu.jo/sites/default/files/styles/large/public/2018-08/Jepg-5.jpg?itok=-CFxaPZl"
+                    width="20%" alt="School of social and basics sciences" style="margin-top: 25px; margin-bottom: 30px;">
+
+            </td>
+        <tr bgcolor="#424242">
+            <td colspan="4">
+                <h4>
+                    <a style="margin-left: 85px;" href="@"> School of Engineering and Technology</a>
+                    <a href="@"> School of Construction Technology and Built Environment </a>
+                    <a href="@"> School of Computing and Informatics</a>
+                    <a href="@" > School of Social and Basics Sciences</a>
+                </h4>
+            </td>
+        </tr>
+        </tr>
+        <!--Footer-->
+        <tr>
+            <td colspan="3" align="left" height="20" bgcolor ="#C2C2C2">
+                <img src="https://www.htu.edu.jo/themes/htu/logo2.png">
+
+                
+                <a> <li style="list-style-type: none; margin-left: 80%;"> Contact Us</li> </a>
+                <a>  <li style="list-style-type: none;margin-left: 80%;"> Tel: +962 6 580 8787</li> </a>
+                <a> <li style="list-style-type: none; margin-left: 80%;">Building 23 | KHBP | Amman-Jordan </li> </a>
+            </td>
+        </tr>
+
+
+    </table>
+</body>
+
+</html>
+<!--The CSS style was used in the tags directly, since it had it's simplicity. According to responsiveness, it has been tested on more than one type of screen to test the responsiveness.-->
